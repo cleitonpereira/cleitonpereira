@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Cleiton Pereira, I'm 25 and I love things that have mainboards🙃
+### I am Cleiton Pereira, I'm 25 and I love things that have motherboards🙃
 Looking and studying for an opportunity as a dev 👀
 - 🔭 I’m currently working on c# & mysql.
 - 🌱 I’m currently learning javascript (node.js, react) and english 📚
