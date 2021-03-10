@@ -1,5 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+## I am Cleiton Pereira, I'm 25 and I love things that have mainboards🙃
+# Looking for an opportunity as a dev.
+- 🔭 I’m currently working on c# & mysql.
+- 🌱 I’m currently learning javascript (node.js, react) and english 🇺🇸
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cleiton-pereira-5b76273b/) Discord:CLEITINHOU#9374
+
+#NeverStopLearning
 <!--
 **cleitonpereira/cleitonpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
